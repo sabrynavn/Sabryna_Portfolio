@@ -81,3 +81,33 @@ button:hover {
     color: #ff69b4;
     font-size: 18px;
 }
+
+.skill {
+    margin-bottom: 10px;
+}
+
+.barra {
+    background-color: #eee;
+    border-radius: 20px;
+    height: 10px;
+}
+
+.progresso {
+    height: 10px;
+    border-radius: 20px;
+}
+
+.html {
+    width: 80%;
+    background-color: #ff69b4;
+}
+
+.css {
+    width: 70%;
+    background-color: #ff69b4;
+}
+
+.js {
+    width: 60%;
+    background-color: #ff69b4;
+}
